@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "zona": "Zona 3 de Mayo",
+    "municipio": "Nuestra Señora de La Paz",
+    "departamento": "La Paz",
+    "pais": "Bolivia",
+    "fuentes": {
+      "poblacion_2012": "Censo Nacional de Población y Vivienda 2012 – INE",
+      "poblacion_2024": "Censo Nacional de Población y Vivienda 2024 – INE",
+      "riesgo_deslizamientos": "WorldPop (2014)"
+    },
+    "descripcion": "Indicadores de riesgo por deslizamientos y evaluación económica con proyección de mitigación",
+    "unidad_monetaria": {
+      "usd": "Dólares Americanos",
+      "bob": "Bolivianos"
+    }
+  },
+
+  "parametros_globales": {
+    "habitantes_promedio_por_vivienda": 4,
+    "poblacion_2012": 1353,
+    "poblacion_2024": 1320,
+    "variacion_poblacional_2012_2024_porcentaje": -2.4,
+    "tasa_crecimiento_anual_porcentaje": -0.2,
+    "riesgo_inicial_porcentaje": 27,
+    "riesgo_post_mitigacion_porcentaje": 15,
+    "beneficio_mitigacion_porcentaje": 12,
+    "tipo_cambio_bob_usd": 6.91,
+    "factor_incremento_anual_costos": 1.0461
+  },
+
+  "serie_anual": [
+    {
+      "anio": 2012,
+      "tasa_crecimiento": null,
+      "poblacion": 1353,
+      "viviendas": 338,
+      "poblacion_susceptible": 162,
+      "viviendas_susceptibles": 41,
+      "costo_vivienda_usd": 19602.53,
+      "riesgo_usd": 795666.82,
+      "riesgo_bob": 5498057.75,
+      "incremento_riesgo_porcentaje": null
+    },
+    {
+      "anio": 2013,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1350,
+      "viviendas": 354,
+      "poblacion_susceptible": 162,
+      "viviendas_susceptibles": 42,
+      "costo_vivienda_usd": 20506.21,
+      "riesgo_usd": 871103.8,
+      "riesgo_bob": 6019327.26,
+      "incremento_riesgo_porcentaje": 9.48
+    },
+    {
+      "anio": 2014,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1348,
+      "viviendas": 353,
+      "poblacion_susceptible": 162,
+      "viviendas_susceptibles": 42,
+      "costo_vivienda_usd": 21451.55,
+      "riesgo_usd": 909439.16,
+      "riesgo_bob": 6284224.61,
+      "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2015,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1345,
+      "viviendas": 353,
+      "poblacion_susceptible": 161,
+      "viviendas_susceptibles": 42,
+      "costo_vivienda_usd": 22440.46,
+      "riesgo_usd": 949461.58,
+      "riesgo_bob": 6560779.51,
+      "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2016,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1342,
+      "viviendas": 352,
+      "poblacion_susceptible": 161,
+      "viviendas_susceptibles": 42,
+      "costo_vivienda_usd": 23474.97,
+      "riesgo_usd": 991245.29,
+      "riesgo_bob": 6849504.99,
+      "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2017,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1340,
+      "viviendas": 351,
+      "poblacion_susceptible": 161,
+      "viviendas_susceptibles": 42,
+      "costo_vivienda_usd": 24557.16,
+      "riesgo_usd": 1034867.82,
+      "riesgo_bob": 7150936.63,
+      "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2018,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1337,
+      "viviendas": 350,
+      "poblacion_susceptible": 160,
+      "viviendas_susceptibles": 42,
+      "costo_vivienda_usd": 25689.25,
+      "riesgo_usd": 1080410.08,
+      "riesgo_bob": 7465633.62,
+      "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2019,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1334,
+      "viviendas": 350,
+      "poblacion_susceptible": 160,
+      "viviendas_susceptibles": 42,
+      "costo_vivienda_usd": 26873.52,
+      "riesgo_usd": 1127956.55,
+      "riesgo_bob": 7794179.73,
+      "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2020,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1332,
+      "viviendas": 349,
+      "poblacion_susceptible": 160,
+      "viviendas_susceptibles": 42,
+      "costo_vivienda_usd": 28112.39,
+      "riesgo_usd": 1177595.43,
+      "riesgo_bob": 8137184.44,
+      "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2021,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1329,
+      "viviendas": 348,
+      "poblacion_susceptible": 159,
+      "viviendas_susceptibles": 42,
+      "costo_vivienda_usd": 29408.37,
+      "riesgo_usd": 1229418.82,
+      "riesgo_bob": 8495284.02,
+      "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2022,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1326,
+      "viviendas": 348,
+      "poblacion_susceptible": 159,
+      "viviendas_susceptibles": 42,
+      "costo_vivienda_usd": 30764.1,
+      "riesgo_usd": 1283522.83,
+      "riesgo_bob": 8869142.78,
+      "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2023,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1324,
+      "viviendas": 347,
+      "poblacion_susceptible": 159,
+      "viviendas_susceptibles": 42,
+      "costo_vivienda_usd": 32182.33,
+      "riesgo_usd": 1340007.85,
+      "riesgo_bob": 9259454.24,
+      "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2024,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1321,
+      "viviendas": 346,
+      "poblacion_susceptible": 159,
+      "viviendas_susceptibles": 42,
+      "costo_vivienda_usd": 33665.93,
+      "riesgo_usd": 1398978.65,
+      "riesgo_bob": 9666942.45,
+      "incremento_riesgo_porcentaje": 4.4
+    }
+  ],
+
+  "mitigacion_riesgo": [
+    {
+      "anio": 2026,
+      "costo_riesgo_bob": 4907324.39,
+      "nuevo_riesgo_bob": 2726291.33,
+      "beneficio_bob": 2181033.06
+    },
+    {
+      "anio": 2027,
+      "costo_riesgo_bob": 5213635.46,
+      "nuevo_riesgo_bob": 2896464.14,
+      "beneficio_bob": 2317171.32
+    },
+    {
+      "anio": 2028,
+      "costo_riesgo_bob": 5539066.21,
+      "nuevo_riesgo_bob": 3077259.0,
+      "beneficio_bob": 2461807.2
+    },
+    {
+      "anio": 2029,
+      "costo_riesgo_bob": 5884810.07,
+      "nuevo_riesgo_bob": 3269338.93,
+      "beneficio_bob": 2615471.14
+    },
+    {
+      "anio": 2030,
+      "costo_riesgo_bob": 6252134.97,
+      "nuevo_riesgo_bob": 3473408.31,
+      "beneficio_bob": 2778726.65
+    }
+  ]
+}
