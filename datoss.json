@@ -185,7 +185,92 @@
       "riesgo_usd": 1398978.65,
       "riesgo_bob": 9666942.45,
       "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2025,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1318,
+      "viviendas": 346,
+      "poblacion_susceptible": 158,
+      "viviendas_susceptibles": 41,
+      "costo_vivienda_usd": 35217.93,
+      "riesgo_usd": 1460544.62,
+      "riesgo_bob": 10092363.32,
+      "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2026,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1316,
+      "viviendas": 345,
+      "poblacion_susceptible": 158,
+      "viviendas_susceptibles": 41,
+      "costo_vivienda_usd": 36841.48,
+      "riesgo_usd": 1524819.98,
+      "riesgo_bob": 10536506.03,
+      "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2027,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1313,
+      "viviendas": 344,
+      "poblacion_susceptible": 158,
+      "viviendas_susceptibles": 41,
+      "costo_vivienda_usd": 38539.87,
+      "riesgo_usd": 1591923.95,
+      "riesgo_bob": 11000194.48,
+      "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2028,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1310,
+      "viviendas": 344,
+      "poblacion_susceptible": 157,
+      "viviendas_susceptibles": 41,
+      "costo_vivienda_usd": 40316.56,
+      "riesgo_usd": 1661981.02,
+      "riesgo_bob": 11484288.84,
+      "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2029,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1308,
+      "viviendas": 343,
+      "poblacion_susceptible": 157,
+      "viviendas_susceptibles": 41,
+      "costo_vivienda_usd": 42175.15,
+      "riesgo_usd": 1735121.15,
+      "riesgo_bob": 11989687.12,
+      "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2030,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1305,
+      "viviendas": 342,
+      "poblacion_susceptible": 157,
+      "viviendas_susceptibles": 41,
+      "costo_vivienda_usd": 44119.42,
+      "riesgo_usd": 1811480.01,
+      "riesgo_bob": 12517326.88,
+      "incremento_riesgo_porcentaje": 4.4
+    },
+    {
+      "anio": 2031,
+      "tasa_crecimiento": -0.2,
+      "poblacion": 1303,
+      "viviendas": 341,
+      "poblacion_susceptible": 156,
+      "viviendas_susceptibles": 41,
+      "costo_vivienda_usd": 46153.33,
+      "riesgo_usd": 1891199.26,
+      "riesgo_bob": 13068186.90,
+      "incremento_riesgo_porcentaje": 4.4
     }
+
   ],
 
   "mitigacion_riesgo": [
@@ -221,3 +306,4 @@
     }
   ]
 }
+
